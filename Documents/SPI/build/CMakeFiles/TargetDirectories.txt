@@ -1,0 +1,3 @@
+/home/ledat/Documents/SPI/build/CMakeFiles/MySPI.dir
+/home/ledat/Documents/SPI/build/CMakeFiles/edit_cache.dir
+/home/ledat/Documents/SPI/build/CMakeFiles/rebuild_cache.dir

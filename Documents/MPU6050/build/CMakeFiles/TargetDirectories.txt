@@ -1,0 +1,6 @@
+/home/ledat/Documents/MPU6050/build/CMakeFiles/MyMPU6050.dir
+/home/ledat/Documents/MPU6050/build/CMakeFiles/edit_cache.dir
+/home/ledat/Documents/MPU6050/build/CMakeFiles/rebuild_cache.dir
+/home/ledat/Documents/MPU6050/build/mpu6050/CMakeFiles/Lib_mpu6050.dir
+/home/ledat/Documents/MPU6050/build/mpu6050/CMakeFiles/edit_cache.dir
+/home/ledat/Documents/MPU6050/build/mpu6050/CMakeFiles/rebuild_cache.dir

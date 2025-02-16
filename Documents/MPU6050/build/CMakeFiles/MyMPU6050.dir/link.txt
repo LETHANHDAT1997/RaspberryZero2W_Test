@@ -1,0 +1,1 @@
+/usr/bin/cc CMakeFiles/MyMPU6050.dir/main.c.o -o MyMPU6050  -lpigpio -lpthread -lm mpu6050/libLib_mpu6050.a -lm 

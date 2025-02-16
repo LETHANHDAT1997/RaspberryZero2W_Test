@@ -1,0 +1,3 @@
+/home/ledat/Documents/I2C/build/CMakeFiles/MyI2C.dir
+/home/ledat/Documents/I2C/build/CMakeFiles/edit_cache.dir
+/home/ledat/Documents/I2C/build/CMakeFiles/rebuild_cache.dir

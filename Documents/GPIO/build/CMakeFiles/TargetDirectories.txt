@@ -1,0 +1,3 @@
+/home/ledat/Documents/GPIO/build/CMakeFiles/MyGPIO.dir
+/home/ledat/Documents/GPIO/build/CMakeFiles/edit_cache.dir
+/home/ledat/Documents/GPIO/build/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,1 @@
+/usr/bin/cc CMakeFiles/MyI2C.dir/main.c.o -o MyI2C  -lpigpio -lpthread 

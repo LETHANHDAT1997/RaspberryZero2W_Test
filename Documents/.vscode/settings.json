@@ -1,0 +1,6 @@
+{
+    "cmake.sourceDirectory": "/home/ledat/Documents/GPIO",
+    "files.associations": {
+        "ostream": "cpp"
+    }
+}
